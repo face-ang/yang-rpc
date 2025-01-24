@@ -1,0 +1,2 @@
+json=com.xjtu.yangrpc.serializer.JsonSerializer
+kryo=com.xjtu.yangrpc.serializer.KryoSerializer
