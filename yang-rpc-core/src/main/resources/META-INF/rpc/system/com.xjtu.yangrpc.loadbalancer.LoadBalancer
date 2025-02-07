@@ -1,0 +1,3 @@
+roundRobin=com.xjtu.yangrpc.loadbalancer.RoundRobinLoadBalancer
+random=com.xjtu.yangrpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.xjtu.yangrpc.loadbalancer.ConsistentHashLoadBalancer

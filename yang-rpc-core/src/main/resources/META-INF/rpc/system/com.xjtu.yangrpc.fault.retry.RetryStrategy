@@ -1,0 +1,2 @@
+no=com.xjtu.yangrpc.fault.retry.NoRetryStrategy
+fixedInterval=com.xjtu.yangrpc.fault.retry.FixedIntervalRetryStrategy

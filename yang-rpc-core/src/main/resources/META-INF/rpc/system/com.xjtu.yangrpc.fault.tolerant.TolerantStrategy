@@ -1,0 +1,4 @@
+failBack=com.xjtu.yangrpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.xjtu.yangrpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.xjtu.yangrpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.xjtu.yangrpc.fault.tolerant.FailSafeTolerantStrategy
